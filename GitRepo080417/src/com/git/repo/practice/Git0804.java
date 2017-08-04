@@ -6,12 +6,12 @@ public class Git0804 {
 		String myname = "Gene Anthony";
 		String myEmail = "gskadano@gmail.com";
 		String myAddress = "Quezon City, Philippines";
-//		long myPhone = 09178646304L;
+		String myPhone = "09178646304";
 		
 		System.out.println(myname);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
-
+		System.out.println(myPhone);
 	}
 
 }
