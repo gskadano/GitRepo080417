@@ -16,6 +16,8 @@ public class Git0804 {
 		System.out.println("Zip code:"+zipCode);
 		System.out.println("===============");
 		
+		//test
+		
 		for(int i=0;i<5;i++){
 			System.out.println(i);
 		}
